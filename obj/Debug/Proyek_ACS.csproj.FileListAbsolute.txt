@@ -1,0 +1,22 @@
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\bin\Debug\Proyek_ACS.exe.config
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\bin\Debug\Proyek_ACS.exe
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\bin\Debug\Proyek_ACS.pdb
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.csproj.AssemblyReference.cache
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.Form1.resources
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.FormPilih.resources
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.Properties.Resources.resources
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.csproj.GenerateResource.cache
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.exe
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.pdb
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.FormJenisJasa.resources
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.FormHarga.resources
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.FormPegawai.resources
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.FormDO.resources
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.FormCustomer.resources
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.FormPengiriman.resources
+D:\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.FormCustomer2.resources
+D:\SEMESTER 3\ACS\Proyek ACS\proyek_acs\Proyek_ACS\bin\Debug\Oracle.DataAccess.dll
+D:\SEMESTER 3\ACS\Proyek ACS\proyek_acs\Proyek_ACS\obj\Debug\Proyek_ACS.csproj.CopyComplete
+F:\Jessi\SEMESTER 3\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.exe
+F:\Jessi\SEMESTER 3\SEMESTER 3\ACS\Proyek ACS\Proyek_ACS\Proyek_ACS\obj\Debug\Proyek_ACS.pdb
